@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /api/
+Disallow: /order/
+Sitemap: https://corlissgibson.site/sitemap.xml
